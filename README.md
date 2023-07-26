@@ -25,6 +25,6 @@ Interested applicants must have access to :
 Application to this workshop is **free**.
 
 ## Apply
-Fill out the application [form](https://forms.gle/1RdEF4VTJTb9pmSX6) by **4th** of Aug 2023. Successful candidates will be notified by **10th Aug 2023**
+Fill out the application [form](https://forms.gle/1RdEF4VTJTb9pmSX6) by **4th** of Aug 2023. Successful candidates will be notified by **10th** Aug 2023.
 
 For queries, please email us at **bioinformatics@mu.ac.ke**.
